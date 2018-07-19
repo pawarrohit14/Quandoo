@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quandoo</string>
+    <string name="customer_title">Customer List</string>
+    <string name="table_title">Book a Table</string>
+
+    <string name="title_activity_splashscreen">SplashscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
